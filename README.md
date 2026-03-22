@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gunateja Pothula 👋</h1>
 
 <p align="center">
-  <b>Data Scientist · Machine Learning Engineer · Berlin, Germany</b>
+  <b>Data Scientist · Machine Learning Engineer</b>
 </p>
 
 <p align="center">
