@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#3c5b49525d4859565d0c0b0c7c5b515d5550125f5351">📧 <span class="__cf_email__" data-cfemail="4423312a2530212e25747374042329252d286a272b29">gunateja070@gmail.com</span></a> &nbsp;·&nbsp;
+  <a href="mailto:gunateja070@gmail.com">📧 gunateja070@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/pothula-gunateja">💼 LinkedIn</a> &nbsp;·&nbsp;
   📍 Berlin, Germany
 </p>
