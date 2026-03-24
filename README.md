@@ -81,7 +81,7 @@ Currently seeking **Junior Data Scientist**, **Data Analyst**, or **Machine Lear
 |--------|-------------|------|
 | [F1 Racing Dashboard](https://github.com/Gunateja020/F1-Racing) | Interactive F1 analytics dashboard with real-time race data visualization | Python, Streamlit, Plotly, FastF1 |
 | [Customer Clustering](https://github.com/Gunateja020/clustering) | Unsupervised customer segmentation using K-Means and GMM | Python, scikit-learn, Pandas |
-| Flight Delay Prediction | XGBoost & LSTM models on 140K+ aviation records, $140K+ projected savings | Python, XGBoost, TensorFlow, Pandas |
+| [Flight Delay Prediction](https://github.com/Gunateja020/Flight_delay_prediction) | XGBoost & LSTM models on 140K+ aviation records, $140K+ projected savings | Python, XGBoost, TensorFlow, Pandas |
 
 ---
 
