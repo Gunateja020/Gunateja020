@@ -87,4 +87,4 @@ Currently seeking **Junior Data Scientist**, **Data Analyst**, or **Machine Lear
 
 ## 🌍 Languages
 
-🇬🇧 English — Fluent &nbsp;·&nbsp; 🇮🇳 Hindi — Fluent &nbsp;·&nbsp; 🇩🇪 German - A2 (actively progressing toward B1)
+🇬🇧 English — Fluent &nbsp;·&nbsp; 🇮🇳 Hindi — Fluent &nbsp;·&nbsp; 🇩🇪 German - B1
